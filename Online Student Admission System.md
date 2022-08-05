@@ -2,14 +2,14 @@
 
 Edit the data on the student user page
 
-![1.png)
+![1](1.png)
 
 XSS vulnerability at full name
 
-![2.png)
+![1](2.png)
 
 Save the page after entering XSS payload
 
-![3.png)
+![1](3.png)
 
 XSS pops up on the page to prove that the vulnerability exists
